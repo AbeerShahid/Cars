@@ -1,0 +1,9 @@
+M:Mini
+E:Economy
+C:Compact
+I:Intermediate
+S:Standard
+F:Fuel Size
+P:Premium
+L:Luxury
+X:Special

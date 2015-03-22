@@ -1,0 +1,8 @@
+B:2 doors
+C:4 doors
+D:5 doors
+W:Estate
+T:Convertible
+F:SUV
+P:Pick up
+V:Passenger Van
